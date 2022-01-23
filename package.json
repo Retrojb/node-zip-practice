@@ -1,0 +1,11 @@
+{
+  "name": "node-filesystem-practice",
+  "version": "1.0.0",
+  "description": "node file system practice",
+  "main": "index.js",
+  "author": "retrojb",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.9"
+  }
+}
